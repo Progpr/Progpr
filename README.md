@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A 2nd year B.tech student, pssionate about being a Data Analyst</h3>
 
-- 🌱 I’m currently learning **Machine Learning Models**
+- 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
 - 💬 Ask me about **Data Analysis , Data Visualisation**
 
