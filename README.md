@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva Patil</h1>
-<h3 align="center">A 2nd year B.tech student, passionate about being a Data Analyst</h3>
+<h3 align="center">A Sophomore B.tech student, passionate about Data Science and Machine Learning</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **Data Analysis , Data Visualisation**
+- 💬 Ask me about **Data Analysis , MAchine Learning**
 
 - 📫 How to reach me **atharvamp@gmail.com**
 
@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/atharva patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva patil" height="30" width="40" /></a>
 <a href="https://kaggle.com/atharpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharpa" height="30" width="40" /></a>
+<a href="https://twitter.com/atharvamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvamp" height="30" width="40" /></a>  
+<a href="https://www.quora.com/profile/Atharva-Patil-411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Quora.svg" alt="Atharva Patil" height="30" width="40" /></a>   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
