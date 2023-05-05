@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **Data Analysis , MAchine Learning**
+- 💬 Ask me about **Data Analysis , Machine Learning**
 
 - 📫 How to reach me **atharvamp@gmail.com**
 
