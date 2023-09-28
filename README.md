@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Patil</h1>
-<h3 align="center">A Junior B.tech student, passionate about Data Science and Machine Learning</h3>
+<h3 align="center">Explporing various skills that eventually lead me to pursuing Machine Learning</h3>
 
 - 🌱 I’m currently studying **Artificial Intelligence and Data Science**
 
