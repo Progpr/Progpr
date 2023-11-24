@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva Patil</h1>
-<h3 align="center">Explporing various skills that eventually lead me to pursuing Machine Learning</h3>
+<h3 align="center">A Software enthusiast on a roadmap of explporing various skills that eventually lead him to pursuing Machine Learning</h3>
 
 - 🌱 I’m currently studying **Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **Data Analysis , Machine Learning**
+- 💬 Ask me about ** Web Development, Android Development, Data Analysis , Machine Learning and DevOps**
 
 - 📫 How to reach me **atharvamp@gmail.com**
 
